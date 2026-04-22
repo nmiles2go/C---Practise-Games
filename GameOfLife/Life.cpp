@@ -1,15 +1,5 @@
 /*
-	Huuuuge Game of Life using Sparse Encoding
-	"It's gonna be a fun one tomorrow boss" - javidx9
-
-	Video: https://youtu.be/OqfHIujOvnE
-
-	Use Left mouse button to stimulate a cell, right mouse button to 
-	stimulate many cells, space bar to run simulation and middle mouse
-	to pan & zoom. 
-
-	License (OLC-3)
-	~~~~~~~~~~~~~~~
+	
 
 	Copyright 201# - 2025 OneLoneCoder.com
 
@@ -41,23 +31,6 @@
 	(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 	OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-	Video:
-	~~~~~~
-	https://youtu.be/OqfHIujOvnE
-
-	Links
-	~~~~~
-	YouTube:	https://www.youtube.com/javidx9
-				https://www.youtube.com/javidx9extra
-	Discord:	https://discord.gg/WhwHUMV
-	X:			https://www.x.com/javidx9
-	Twitch:		https://www.twitch.tv/javidx9
-	GitHub:		https://www.github.com/onelonecoder
-	Homepage:	https://www.onelonecoder.com
-
-	Author
-	~~~~~~
-	David Barr, aka javidx9, �OneLoneCoder 2025
 */
 
 #define OLC_PGE_APPLICATION
